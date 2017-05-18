@@ -6,7 +6,7 @@
   <artifactId>Calculator</artifactId>
   <version>0.0.1-SNAPSHOT</version>
   <packaging>jar</packaging>
-
+<!-- line added for testing github -->
   <name>Calculator</name>
   <url>http://maven.apache.org</url>
 
